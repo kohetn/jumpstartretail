@@ -1,6 +1,6 @@
 <?php
 
-$token = "2132338987:AAG0pLI0bSnwC66JVnIkHbdNyoxuIHAh1nw";
+$token = "2102700901:AAFAtJNwzt7_qB7po8SKkIOyNnzoEiYXCZk";
 $website = "https://api.telegram.org/bot".$token;
 $web ="https://api.telegram.org/file/bot".$token;
 
